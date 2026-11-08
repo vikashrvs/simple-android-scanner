@@ -1,0 +1,21 @@
+{
+  "note": "Apps you have verified yourself. Allowlisting only hides low-level noise (sideload, hidden icon, install-unknown, overlay). Accessibility, device admin, notification listener and indicator matches are always shown.",
+  "apps": {
+    "com.Version1": "PNB ONE (bank app)",
+    "in.org.npci.upiapp": "BHIM UPI",
+    "net.one97.paytm": "Paytm",
+    "com.whatsapp": "WhatsApp",
+    "org.telegram.messenger": "Telegram"
+  },
+  "safeInstallers": [
+    "com.android.vending",
+    "com.sec.android.app.samsungapps",
+    "com.sec.android.easyMover",
+    "com.samsung.android.easyMover"
+  ],
+  "sideloadInstallers": [
+    "com.google.android.packageinstaller",
+    "com.android.packageinstaller",
+    "com.google.android.permissioncontroller"
+  ]
+}

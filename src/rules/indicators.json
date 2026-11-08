@@ -1,0 +1,8 @@
+{
+  "source": "No verified public list bundled yet. Import one and record its source and licence here.",
+  "version": "0",
+  "fetchedAt": null,
+  "packages": [
+    { "pkg": "com.example.indicator.test", "name": "Test indicator (for acceptance testing only)", "test": true }
+  ]
+}

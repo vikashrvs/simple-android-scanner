@@ -1,0 +1,8 @@
+node_modules
+dist
+reports/
+*.report.json
+*.report.pdf
+phone-scan-report.*
+tests/fixtures/_private/
+.DS_Store
